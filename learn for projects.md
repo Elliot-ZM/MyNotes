@@ -25,4 +25,5 @@
 1. opensource projects [Check here](https://awesomeopensource.com/projects/face-recognition)
 2. ++swghosh++ [deepface](https://github.com/swghosh/DeepFace)
 3. blog post for [face recognition with deep learning](https://towardsdatascience.com/an-intro-to-deep-learning-for-face-recognition-aa8dfbbc51fb)
+4. blog post for [real time face recognition with cpu](https://towardsdatascience.com/real-time-face-recognition-with-cpu-983d35cc3ec5)
 
