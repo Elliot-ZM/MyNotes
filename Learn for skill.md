@@ -30,9 +30,12 @@ numpy, pandas , matplotlib [blog post series here](https://pythonhealthcare.org/
 ***
 ## Pytorch Tutorials
 
-1. ++Pytorch with Baby Steps: From y=x To Training A Convnet++    [blog post here](https://lelon.io/blog/2018/02/08/pytorch-with-baby-steps)
-2. ++uilde to build Faster RCNN in Pytorch++ [medium article](https://medium.com/@fractaldle/guide-to-build-faster-rcnn-in-pytorch-95b10c273439)
-3. ++derstanding Pytorch with example- step by step++ [medium article](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
+1. ``Pytorch with Baby Steps: From y=x To Training A Convnet``    [blog post here](https://lelon.io/blog/2018/02/08/pytorch-with-baby-steps)
+2. ``guide to build Faster RCNN in Pytorch`` [medium article](https://medium.com/@fractaldle/guide-to-build-faster-rcnn-in-pytorch-95b10c273439)
+3. ``derstanding Pytorch with example- step by step`` [medium article](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
+4. *yunjey* Pytorch tutorial for DL researchers [pytorch tutorials](https://github.com/yunjey/pytorch-tutorial)
+5. ``introduction to pytorch from scratch`` [analyticsvidhya article](https://www.analyticsvidhya.com/blog/2019/09/introduction-to-pytorch-from-scratch/)
+6. ``Pytorch- learn how to build  quick & accurate neural networks(with 4 case study)`` [analyticsvidhya article](https://www.analyticsvidhya.com/blog/2019/01/guide-pytorch-neural-networks-case-studies/)
 
 
 
