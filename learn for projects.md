@@ -26,4 +26,10 @@
 2. ++swghosh++ [deepface](https://github.com/swghosh/DeepFace)
 3. blog post for [face recognition with deep learning](https://towardsdatascience.com/an-intro-to-deep-learning-for-face-recognition-aa8dfbbc51fb)
 4. blog post for [real time face recognition with cpu](https://towardsdatascience.com/real-time-face-recognition-with-cpu-983d35cc3ec5)
+5. *Alireza-akhavan* [deep face recognition with notebook](https://github.com/Alireza-Akhavan/deep-face-recognition)
+6. *sthanhng* [yoloface](https://github.com/sthanhng/yoloface)
+7. *iitzco* [faced](https://github.com/iitzco/faced)
+8. *dougsouza* [face-frontalization](https://github.com/dougsouza/face-frontalization)
+9. *cmusatyalab* face recognition with deep neural networks [openface](https://github.com/cmusatyalab/openface)
+
 
