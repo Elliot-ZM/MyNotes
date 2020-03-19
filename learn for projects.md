@@ -31,5 +31,6 @@
 7. *iitzco* [faced](https://github.com/iitzco/faced)
 8. *dougsouza* [face-frontalization](https://github.com/dougsouza/face-frontalization)
 9. *cmusatyalab* face recognition with deep neural networks [openface](https://github.com/cmusatyalab/openface)
+10 **pycon** face recognition with pytorch conference [youtube video](https://www.youtube.com/watch?v=wbu94CbBkCs)
 
 
