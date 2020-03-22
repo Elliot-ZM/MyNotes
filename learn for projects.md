@@ -34,5 +34,7 @@
 10. **pycon** face recognition with pytorch conference [youtube video](https://www.youtube.com/watch?v=wbu94CbBkCs)
 11. blog post for [building face recognition pipeline with tensorflow](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
 12. freecodecamp post [making your own face recognition system](https://www.freecodecamp.org/news/making-your-own-face-recognition-system-29a8e728107c/)
+13. *timesler* [facenet-pytorch](https://github.com/timesler/facenet-pytorch)
+14. *TreB1eN* [InsightFace_Pytorch](https://github.com/TreB1eN/InsightFace_Pytorch)
 
 
