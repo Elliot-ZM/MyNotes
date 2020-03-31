@@ -37,5 +37,6 @@
 13. *timesler* [facenet-pytorch](https://github.com/timesler/facenet-pytorch)
 14. *TreB1eN* [InsightFace_Pytorch](https://github.com/TreB1eN/InsightFace_Pytorch)
 15. *learn mtcnn step by step and box utils* [mtcnn-pytorch](https://github.com/TropComplique/mtcnn-pytorch)
+16. *face recognition pipeline with keras and svm* [facenet-keras-svm](https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/)
 
 
