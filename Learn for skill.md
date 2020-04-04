@@ -38,5 +38,9 @@ numpy, pandas , matplotlib [blog post series here](https://pythonhealthcare.org/
 6. ``Pytorch- learn how to build  quick & accurate neural networks(with 4 case study)`` [analyticsvidhya article](https://www.analyticsvidhya.com/blog/2019/01/guide-pytorch-neural-networks-case-studies/)
 
 
+***
+## Opencv Crash Course
+
+1. *3hours crash course with videos* [github](https://github.com/murtazahassan/OpenCV-Python-Tutorials-for-Beginners)
 
 
