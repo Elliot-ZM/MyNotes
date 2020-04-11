@@ -36,6 +36,8 @@ numpy, pandas , matplotlib [blog post series here](https://pythonhealthcare.org/
 4. *yunjey* Pytorch tutorial for DL researchers [pytorch tutorials](https://github.com/yunjey/pytorch-tutorial)
 5. ``introduction to pytorch from scratch`` [analyticsvidhya article](https://www.analyticsvidhya.com/blog/2019/09/introduction-to-pytorch-from-scratch/)
 6. ``Pytorch- learn how to build  quick & accurate neural networks(with 4 case study)`` [analyticsvidhya article](https://www.analyticsvidhya.com/blog/2019/01/guide-pytorch-neural-networks-case-studies/)
+7. **custom dataset explained from basic** [github](https://github.com/utkuozbulak/pytorch-custom-dataset-examples)
+8. **Pytorch Unet Segmentation and step by step data preparation and augmentation** [github](https://github.com/ugent-korea/pytorch-unet-segmentation)
 
 
 ***
