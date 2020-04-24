@@ -1,6 +1,7 @@
 ## ++ == PROJECTS ==++
 ### Object Detection
 1. **Series of implementing yolov3 from scratch with pytorch [link](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
+2.  **`Object Detection for all`** [Good Chinese Lecture](https://deepbaksuvision.github.io/Modu_ObjectDetection/)
 
 ### BLOG Post For Image Segmentation
 
